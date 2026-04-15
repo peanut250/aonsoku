@@ -677,6 +677,10 @@
           "info": "Gdy włączone, obrazy będą zapisywane lokalnie w pamięci podręcznej aby poprawić wydajność.",
           "label": "Włącz pamięć podręczną obrazów"
         }
+      },
+      "features": {
+        "group": "Funkcje",
+        "description": "Włącz lub wyłącz funkcje klienta"
       }
     },
     "appearance": {
@@ -753,7 +757,7 @@
         "group": "Discord Rich Presence",
         "description": "Udostępniaj aktualnie odtwarzaną piosenkę z znajomymi na Discordzie.",
         "enabled": {
-          "label": "Włącz jntegrację"
+          "label": "Włącz integrację"
         }
       }
     },
@@ -796,7 +800,6 @@
     "albumCount_one": "{{count}} album",
     "albumCount_few": "{{count}} albumy",
     "albumCount_many": "{{count}} albumów",
-    "albumCount_other": "{{count}} albumów",
     "buttons": {
       "shuffleTracks": "Losowe utwory",
       "shuffleAlbums": "Losowe albumy"
